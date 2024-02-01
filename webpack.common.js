@@ -26,7 +26,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: './src/rough.html',
+      template: './src/index.html',
     }),
   ],
 };
